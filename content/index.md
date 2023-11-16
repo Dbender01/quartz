@@ -2,5 +2,10 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+## Curse of Strahd Wiki
+[[Welcome to Barovia]]
+
+## Other Articles
+
+[[Akash M’ke Priest of Delkhii]]
