@@ -1,8 +1,0 @@
-#Monthly
-
-
-## Tasks
-- [ ]
-
-## Goals
-- [ ]
