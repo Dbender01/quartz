@@ -1,6 +1,0 @@
----
-aliases:
-  - Batman
----
-#player 
-

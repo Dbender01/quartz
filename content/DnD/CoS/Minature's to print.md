@@ -1,5 +1,0 @@
-- [ ] Giant Spider
-- [ ] Fat Zombie
-- [ ] A big tree
-- [ ] 6 heads
-- [ ] 2 Werewolves

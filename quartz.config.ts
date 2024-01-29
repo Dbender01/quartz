@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Drew's Brain",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["Private", "Templates", ".obsidian", "Drafts", "Readwise", "Daily Journal"],
     defaultDateType: "created",
     theme: {
       typography: {

@@ -1,3 +1,0 @@
-#npc
-
-![[baronOfVallaki.png]]
