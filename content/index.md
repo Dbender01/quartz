@@ -11,6 +11,5 @@ This website is a collection of my notes on various topics. The largest of which
 ## Misc D&D
 [[Akash M’ke Priest of Delkhii]]
 
-
 ## Dev
 [[API's, SOAP Services, and Message Queues - An Overview]]
